@@ -1,7 +1,7 @@
 # **View the interactive dashboard [here](https://public.tableau.com/views/STARProject/MathDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 **Overview**
-This Tableau dashboard provides an interactive overview of STAR reading and math scores for the 2024-2025 school year at Oakgrove/Firwood. It includes key insights and trends to help educators and administrators analyze student performance at a glance. STAR is a standardized state test that students must complete monthly. 
+This Tableau dashboard provides an interactive overview of STAR reading and math scores for the 2024-2025 school year at Oakgrove/Firwood. It includes key insights and trends to help educators and administrators analyze student performance at a glance. STAR is a standardized state test that students complete monthly. 
 
 **Files Included**
 - STAR_Project.twbx – Packaged Tableau workbook (interactive version).
@@ -10,12 +10,12 @@ This Tableau dashboard provides an interactive overview of STAR reading and math
 
 **How to Use**
 1. Interactive Version
-- Download STAR_Dashboard.twbx.
+- Download STAR_Project.twbx.
 - Open in Tableau Desktop or Tableau Reader (free).
-2. View as PDF
-- Open STAR_Summary_Report.pdf for a non-interactive summary.
+2. View as PNG
+- Open Math Dashboard.png or Reading Dashboard.png for a non-interactive view.
 3. Online Access (If applicable)
-- View the live dashboard on Tableau Public.
+- View the live dashboard on Tableau Public using the link at the top of this file.
 
 **Purpose**
 This dashboard is designed to help educators:
@@ -24,5 +24,5 @@ This dashboard is designed to help educators:
 - Make data-driven decisions for curriculum planning.
 
 **Notes**
-Data is anonymized to protect student privacy.
-Requires Tableau 2024.x or later for full compatibility.
+- Data is anonymized to protect student privacy.
+- Requires Tableau 2024.x or later for full compatibility.
