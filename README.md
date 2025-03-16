@@ -1,7 +1,10 @@
 # **View the interactive dashboard [here](https://public.tableau.com/views/STARProject/MathDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 **Overview**
-This Tableau dashboard provides an interactive overview of STAR reading and math scores for the 2024-2025 school year at Oakgrove/Firwood. It includes key insights and trends to help educators and administrators analyze student performance at a glance. STAR is a standardized state test that students complete monthly. 
+This Tableau dashboard provides an interactive overview of STAR reading and math scores for the 2024-2025 school year at Oakgrove/Firwood. It includes key insights and trends to help educators and administrators analyze student performance at a glance. 
+
+**What is STAR?**
+STAR is a standardized state test that students complete monthly. Students recieve a standardized score and a grade equivalent (GE) score. Grade Equivalent (GE) is a norm-referenced score that represents how a student’s test performance compares with other students nationally. For example, a fifth-grade student with a GE score of 7.6 performed as well as a typical seventh-grader who is 60% through the school year. This score doesn’t necessarily mean that the student is capable of reading seventh-grade material or doing seventh-grade math—it only indicates that the student’s reading or math skills are well above average for the fifth grade.
 
 **Files Included**
 - STAR_Project.twbx – Packaged Tableau workbook (interactive version).
@@ -21,7 +24,7 @@ This Tableau dashboard provides an interactive overview of STAR reading and math
 This dashboard is designed to help educators:
 - Identify students needing additional support.
 - Monitor growth over time.
-- Make data-driven decisions for curriculum planning.
+- Make data-driven decisions for curriculum planning and IEP writing.
 
 **Notes**
 - Data is anonymized to protect student privacy.
